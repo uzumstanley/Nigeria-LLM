@@ -1,4 +1,4 @@
-# 🇳🇬 NaijaWeb
+# 🇳🇬 Naigeria LLM WebScrap Dataset for LLM Training
 
 NaijaWeb is a web scraping project inspired by the [FineWeb paper](https://arxiv.org/abs/2406.17557) and the [WebText dataset](https://paperswithcode.com/dataset/webtext), including the [OpenWebText dataset](https://huggingface.co/datasets/Skylion007/openwebtext).
 
